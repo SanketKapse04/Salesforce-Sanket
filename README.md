@@ -1,2 +1,3 @@
 # Salesforce-Sanket
-This is my sfdc git repository.
+This is my SFDC Git Repository.
+Author - Sanket Kapse
